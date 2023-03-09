@@ -366,7 +366,6 @@ html {
     display: flex;
     justify-content: center;
     flex-basis: 100%;
-    border: 2px solid orange;
   }
   
   .container {
